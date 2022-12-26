@@ -1,0 +1,12 @@
+name: SAOBank
+author: Nyrok
+version: 1.0.0
+main: fr.nyrok.saobank.SAOBank
+description: Système de Stockage
+api-version: 1.16
+
+commands:
+  saobank:
+    description: Système de Stockage
+    usage: /saobank help
+    permission: saobank.command
